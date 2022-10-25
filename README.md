@@ -1,1 +1,1 @@
-# competitional-fullStack-e-commerce
+# Full stack E-commerce Project
